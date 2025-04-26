@@ -1,6 +1,6 @@
 ! Title: RK's Filters
 ! Description: MiniMiZed yet Powerful Filter Lists By Rimon Khan!
-! Credits: EasyList, AdGuard, ABP and Rimon Khan!
+! Credits: EasyList and Rimon Khan!
 !
 !
 ! -----------------------General advert blocking filters-----------------------!
